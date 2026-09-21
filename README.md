@@ -105,12 +105,6 @@ GitHub를 이용해 기능별 작업을 나누고 Pull Request 기반으로 협�
 
 ---
 
-## Screenshot
-
-![EverySohak Screenshot](./Screenshot_20241119_133655.png)
-
----
-
 ## What I Learned
 
 이 프로젝트를 통해 Android 앱에서 **View · ViewModel · Repository의 역할을 분리해 화면 로직과 데이터 처리 로직을 나누는 방식**을 경험했습니다.
